@@ -4,3 +4,9 @@
 	<a href="/projects">PROJECTS</a>
 	<a href="/contact">CONTACT</a>
 </nav>
+
+<style>
+	nav {
+		display: flex;
+	}
+</style>
