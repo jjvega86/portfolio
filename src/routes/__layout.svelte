@@ -1,12 +1,10 @@
-<nav>
-	<a href="/">JJ Vega</a>
-	<a href="/about">About</a>
-	<a href="/projects">Projects</a>
-	<a href="/contact">Contact</a>
-</nav>
+<script>
+	import Nav from '$lib/components/Nav.svelte';
+	import Footer from '$lib/components/Footer.svelte';
+</script>
 
+<Nav />
 <main>
 	<slot />
 </main>
-
-<footer>ICONS GO HERE</footer>
+<Footer />
