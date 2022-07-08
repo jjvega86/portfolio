@@ -37,3 +37,7 @@ body {
 a {
 	color: inherit;
 }
+
+.cta {
+	color: var(--cta);
+}

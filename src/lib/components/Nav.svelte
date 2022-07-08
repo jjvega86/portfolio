@@ -6,7 +6,7 @@
 		<li><a href="/projects">PROJECTS</a></li>
 		<li><a href="/resume">RESUME</a></li>
 		<li><a href="/about">ABOUT</a></li>
-		<li><a href="/contact">CONTACT ME</a></li>
+		<li><a class="cta" href="/contact">CONTACT ME</a></li>
 	</ul>
 </nav>
 
